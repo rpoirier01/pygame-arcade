@@ -7,6 +7,8 @@ This is a small arcade style shooter made with the Python Pygame module. Current
 - If enemies run out of health, they disappear. If the player runs out of health, the game ends
 - The players indicator loses color as it takes damage
 
+Enemies and the player are currently represented with blue and red circles respectively, as creating unique designs for them is outside the scope of this project.
+
 Possible improvements:
 - Multiple waves of enemies, as there is only one wave currently
 - Powerups for the player and enemies
